@@ -16,8 +16,6 @@
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-  ```
-
 * In addition, my final script should both print the analysis to the terminal and export a text file with the results.
 
 
@@ -36,7 +34,5 @@
   * The total number of votes each candidate won
 
   * The winner of the election based on popular vote.
-  
-   ```
 
 * In addition, my final script should both print the analysis to the terminal and export a text file with the results.
